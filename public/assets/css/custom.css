@@ -1,0 +1,34 @@
+#main-wrapper[data-layout=vertical] .topbar .top-navbar .navbar-header[data-logobg=skin5], #main-wrapper[data-layout=horizontal] .topbar .top-navbar .navbar-header[data-logobg=skin5] {
+    background: #410d03;
+    -webkit-box-shadow: -10px -7px 20px 2px #000;
+    box-shadow: -10px -7px 20px 2px #000;
+}
+
+#main-wrapper[data-layout=vertical] .left-sidebar[data-sidebarbg=skin5], #main-wrapper[data-layout=vertical] .left-sidebar[data-sidebarbg=skin5] ul, #main-wrapper[data-layout=horizontal] .left-sidebar[data-sidebarbg=skin5], #main-wrapper[data-layout=horizontal] .left-sidebar[data-sidebarbg=skin5] ul {
+    background: #410d03;
+}
+
+.sidebar-nav>ul>li.selected>a {
+    background: #b3923f;
+}
+
+.preloader {
+    background: #410d03;
+}
+
+.lds-ripple {
+    width: 200px;
+    height: 200px;
+}
+
+.lds-ripple .lds-pos {
+    border: 2px solid #b3923f;
+}
+
+.topbar .nav-toggler, .topbar .topbartoggler {
+    color: #b3923f;
+}
+
+.auth-wrapper .auth-box .logo {
+    padding: 35px 0px;
+}
